@@ -19,11 +19,11 @@ def load_data(file, columns=None, date_time_combine=False):  # Load data from fi
     return data
 
 
-def preprocess_data()
+def preprocess_data():
     pass
 
 
-def compute_metrics()
+def compute_metrics():
     pass
 
 
